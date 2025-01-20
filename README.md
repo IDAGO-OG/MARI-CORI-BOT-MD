@@ -40,7 +40,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > pkg install imagemagick -y
 > pkg install yarn
 > git clone https://github.com/IDAGO-OG/TheDagos-Bot-MD
-> cd TheMystic-Bot-MD
+> cd TheDagos-Bot-MD
 > yarn install 
 > npm update
 > npm start
